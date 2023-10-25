@@ -1,0 +1,10 @@
+body{
+    background: purple;
+    margin: 0;
+    overflow: hidden;
+}
+h1{
+    font-size: 100px;
+    font-family: Lucida Sans;
+    text-align: center;
+}
